@@ -2,7 +2,7 @@ body{
     margin:0;
 }
 .header{
-    background-image: url("imagem/index/headercafe.svg");
+    background: linear-gradient(0deg, rgba(126,87,46,1) 0%, rgba(126,87,46,0) 25%), url("imagem/index/headercafe.svg");
     background-size:100%;
     background-position: center;
     height: auto;
@@ -54,7 +54,7 @@ a.logonav:hover{
     justify-content: center;
     align-items: center;
     width: 100%;
-    padding: 80px;
+    padding: 45px;
     box-sizing: border-box;
 }
 .cafelogocontainer h1{
